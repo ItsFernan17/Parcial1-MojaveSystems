@@ -9,6 +9,19 @@ El sistema permite **registrar, buscar y listar empleados y clientes**, cumplien
 
 ---
 
+## 🌱 Rama Actual de Desarrollo
+
+Actualmente, el proyecto se encuentra en la rama **`dev`**, donde se está trabajando en la implementación y pruebas de las funcionalidades de **registro** para empleados y clientes.  
+En esta fase se está validando el flujo completo de registro, incluyendo:
+
+- Verificación de **IDs duplicados**.
+- Almacenamiento temporal en memoria mediante los repositorios.
+- Pruebas unitarias simples desde la clase `Main`.
+
+Cuando estas funcionalidades estén listas y probadas, se integrarán a la rama **main** para la versión estable.
+
+---
+
 ## 📂 Estructura del Proyecto
 
 - **Clase base (abstracta)**  
