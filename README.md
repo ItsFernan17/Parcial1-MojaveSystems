@@ -9,6 +9,20 @@ El sistema permite **registrar, buscar y listar empleados y clientes**, cumplien
 
 ---
 
+
+## 📦 Rama Actual de Desarrollo
+
+Actualmente, el proyecto se encuentra en la rama **`feature`**, donde se está trabajando en la implementación y pruebas de la nueva funcionalidad de **registro de proveedores**.  
+En esta fase se está validando el flujo completo de registro de proveedores, incluyendo:
+
+- Verificación de **IDs duplicados**.
+- Almacenamiento temporal en memoria mediante el repositorio de proveedores.
+- Pruebas unitarias simples desde la clase `Main`.
+
+Cuando esta funcionalidad esté lista y probada, se integrará a la rama **dev** para su posterior validación junto con el resto del sistema.
+
+---
+
 ## 📂 Estructura del Proyecto
 
 - **Clase base (abstracta)**  
